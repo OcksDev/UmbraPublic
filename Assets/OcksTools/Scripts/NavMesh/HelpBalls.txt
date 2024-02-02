@@ -1,0 +1,10 @@
+
+
+
+Requires:
+NavMeshPlus (https://github.com/h8man/NavMeshPlus)
+
+
+
+Help:
+https://www.youtube.com/watch?v=SDfEytEjb5o

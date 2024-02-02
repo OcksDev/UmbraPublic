@@ -1,0 +1,24 @@
+
+
+
+OcksTools is a tools package I created to speed up developement time by creating a bunch of premade systems that most games need.
+The tools package is mostly made for me, Ocks, but anyone is more than welcome to use it.
+If you have any feedback or things I can add/change please submit it to me and I will see what I can do.
+
+
+As of 1.0.4 the package includes:
+- Dialog System
+- Save System
+- Console System
+- Chat System
+- Base Multiplayer Setup
+- General Inventory Systems (GIS)
+- Base NavMesh Setup
+- A lot of random functions
+- Sound System
+- Modified Object Spawning (to allow for passing in data on spawn)
+- Input Manager
+- Custom Tags System (because unity's tags are bad)
+- Some common base classes such as an Entity class
+- A Bunch of Util Windows
+- A Bunch of random scripts for things

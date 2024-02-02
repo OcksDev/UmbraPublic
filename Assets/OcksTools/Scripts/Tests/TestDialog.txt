@@ -1,0 +1,17 @@
+-Test Dialog-
+</> <Name=Gamer> <Speed=69.69, -, 1> <TitleColor=150,0,0,255> <TextColor=150,0,0,255> <BgColor=150,0,0,255>
+</> Gaming time Gaming time Gaming time Gaming time Gaming time Gaming time Gaming time Gaming time Gaming time Gaming timeGaming time Gaming time 
+</> 
+</> <Speed=69.69, -, 1> <Voiceline=0> <Name=Boner> 
+</> I eat hair
+</> 
+</> <Name=Gamer> <Voiceline=1>
+</> what
+</> 
+</> <Name=Boner> <Speed=69.69, -, 1> <Voiceline=2> <TextColor=150,0,0,255>
+</> Yes
+</> 
+</> <Name=Gamer> <TextColor=150,0,0,255> <Voiceline=3>
+</> cool....
+</> <End> <Scene=1>
+

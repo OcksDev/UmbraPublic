@@ -1,0 +1,23 @@
+
+Installs:
+
+Relay
+Netcode for Gameobjects
+whatever this is: https://docs-multiplayer.unity3d.com/netcode/current/components/networktransform#clientnetworktransform
+
+			https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop.git?path=/Packages/com.unity.multiplayer.samples.coop#main
+
+
+Steps:
+
+1. Install packages shown above
+2. Setup the project with a project ID for the unity dashboard inside a company who has Relay (BPM/AW2 games)
+3. Remember to enable relay within the unity dashboard you nitwit (make sure its the right project)
+that should be it, unless something changes from when I make this
+
+
+Help:
+https://www.youtube.com/watch?v=3yuBOB3VrCk
+https://www.youtube.com/watch?v=82Lbho7S0OA
+https://www.youtube.com/watch?v=msPNJ2cxWfw
+Unity Discord Server #networking
